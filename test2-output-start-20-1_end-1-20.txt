@@ -1,0 +1,162 @@
+Valid input file: ATM_graph2.txt
+iter 0:	checking: (20,1), 	frontier size = 0
+iter 1:	checking: (19,1), 	frontier size = 1
+iter 2:	checking: (19,2), 	frontier size = 2
+iter 3:	checking: (18,2), 	frontier size = 4
+iter 4:	checking: (18,3), 	frontier size = 6
+iter 5:	checking: (17,3), 	frontier size = 8
+iter 6:	checking: (17,4), 	frontier size = 10
+iter 7:	checking: (16,4), 	frontier size = 12
+iter 8:	checking: (16,5), 	frontier size = 14
+iter 9:	checking: (15,5), 	frontier size = 16
+iter 10:	checking: (15,6), 	frontier size = 17
+iter 11:	checking: (14,6), 	frontier size = 19
+iter 12:	checking: (13,6), 	frontier size = 20
+iter 13:	checking: (16,7), 	frontier size = 19
+iter 14:	checking: (16,3), 	frontier size = 21
+iter 15:	checking: (16,2), 	frontier size = 21
+iter 16:	checking: (15,2), 	frontier size = 22
+iter 17:	checking: (15,1), 	frontier size = 23
+iter 18:	checking: (18,1), 	frontier size = 22
+iter 19:	checking: (14,2), 	frontier size = 21
+iter 20:	checking: (16,1), 	frontier size = 22
+iter 21:	checking: (13,1), 	frontier size = 21
+iter 22:	checking: (13,2), 	frontier size = 21
+iter 23:	checking: (12,1), 	frontier size = 22
+iter 24:	checking: (13,3), 	frontier size = 22
+iter 25:	checking: (10,4), 	frontier size = 23
+iter 26:	checking: (9,4), 	frontier size = 26
+iter 27:	checking: (8,4), 	frontier size = 27
+iter 28:	checking: (8,5), 	frontier size = 29
+iter 29:	checking: (8,6), 	frontier size = 29
+iter 30:	checking: (8,7), 	frontier size = 29
+iter 31:	checking: (8,8), 	frontier size = 32
+iter 32:	checking: (8,9), 	frontier size = 34
+iter 33:	checking: (7,9), 	frontier size = 34
+iter 34:	checking: (6,9), 	frontier size = 35
+iter 35:	checking: (16,6), 	frontier size = 34
+iter 36:	checking: (17,6), 	frontier size = 33
+iter 37:	checking: (20,3), 	frontier size = 34
+iter 38:	checking: (18,7), 	frontier size = 34
+iter 39:	checking: (20,4), 	frontier size = 36
+iter 40:	checking: (19,8), 	frontier size = 36
+iter 41:	checking: (20,5), 	frontier size = 38
+iter 42:	checking: (20,9), 	frontier size = 39
+iter 43:	checking: (20,6), 	frontier size = 39
+iter 44:	checking: (20,10), 	frontier size = 40
+iter 45:	checking: (20,7), 	frontier size = 41
+iter 46:	checking: (20,11), 	frontier size = 40
+iter 47:	checking: (17,7), 	frontier size = 41
+iter 48:	checking: (20,12), 	frontier size = 40
+iter 49:	checking: (19,10), 	frontier size = 41
+iter 50:	checking: (20,13), 	frontier size = 40
+iter 51:	checking: (19,11), 	frontier size = 41
+iter 52:	checking: (20,14), 	frontier size = 40
+iter 53:	checking: (19,12), 	frontier size = 41
+iter 54:	checking: (20,15), 	frontier size = 40
+iter 55:	checking: (19,13), 	frontier size = 41
+iter 56:	checking: (20,16), 	frontier size = 42
+iter 57:	checking: (19,14), 	frontier size = 43
+iter 58:	checking: (12,2), 	frontier size = 42
+iter 59:	checking: (19,15), 	frontier size = 42
+iter 60:	checking: (11,2), 	frontier size = 42
+iter 61:	checking: (19,16), 	frontier size = 43
+iter 62:	checking: (10,1), 	frontier size = 44
+iter 63:	checking: (20,17), 	frontier size = 44
+iter 64:	checking: (9,1), 	frontier size = 44
+iter 65:	checking: (20,18), 	frontier size = 45
+iter 66:	checking: (12,3), 	frontier size = 46
+iter 67:	checking: (20,19), 	frontier size = 45
+iter 68:	checking: (9,2), 	frontier size = 46
+iter 69:	checking: (20,20), 	frontier size = 46
+iter 70:	checking: (8,2), 	frontier size = 46
+iter 71:	checking: (19,19), 	frontier size = 47
+iter 72:	checking: (17,5), 	frontier size = 48
+iter 73:	checking: (7,1), 	frontier size = 47
+iter 74:	checking: (11,1), 	frontier size = 47
+iter 75:	checking: (6,1), 	frontier size = 46
+iter 76:	checking: (7,2), 	frontier size = 47
+iter 77:	checking: (9,3), 	frontier size = 46
+iter 78:	checking: (5,1), 	frontier size = 45
+iter 79:	checking: (19,18), 	frontier size = 46
+iter 80:	checking: (5,2), 	frontier size = 46
+iter 81:	checking: (19,20), 	frontier size = 48
+iter 82:	checking: (6,3), 	frontier size = 48
+iter 83:	checking: (5,3), 	frontier size = 48
+iter 84:	checking: (18,18), 	frontier size = 49
+iter 85:	checking: (17,1), 	frontier size = 50
+iter 86:	checking: (6,4), 	frontier size = 49
+iter 87:	checking: (18,20), 	frontier size = 48
+iter 88:	checking: (4,3), 	frontier size = 49
+iter 89:	checking: (5,4), 	frontier size = 51
+iter 90:	checking: (18,5), 	frontier size = 50
+iter 91:	checking: (4,4), 	frontier size = 49
+iter 92:	checking: (3,3), 	frontier size = 49
+iter 93:	checking: (3,4), 	frontier size = 50
+iter 94:	checking: (3,5), 	frontier size = 51
+iter 95:	checking: (3,6), 	frontier size = 52
+iter 96:	checking: (3,7), 	frontier size = 53
+iter 97:	checking: (3,8), 	frontier size = 54
+iter 98:	checking: (3,9), 	frontier size = 55
+iter 99:	checking: (3,10), 	frontier size = 56
+iter 100:	checking: (3,11), 	frontier size = 57
+iter 101:	checking: (3,12), 	frontier size = 58
+iter 102:	checking: (3,13), 	frontier size = 59
+iter 103:	checking: (3,14), 	frontier size = 60
+iter 104:	checking: (3,15), 	frontier size = 61
+iter 105:	checking: (3,16), 	frontier size = 62
+iter 106:	checking: (3,17), 	frontier size = 63
+iter 107:	checking: (3,18), 	frontier size = 66
+iter 108:	checking: (2,18), 	frontier size = 68
+iter 109:	checking: (2,19), 	frontier size = 70
+iter 110:	checking: (1,19), 	frontier size = 72
+iter 111:	checking: (1,20),	goal found!
+
+solution path:
+ vertex (20, 1)
+ vertex (19, 1)
+ vertex (19, 2)
+ vertex (18, 2)
+ vertex (18, 3)
+ vertex (17, 3)
+ vertex (16, 3)
+ vertex (15, 2)
+ vertex (14, 2)
+ vertex (13, 2)
+ vertex (12, 2)
+ vertex (11, 2)
+ vertex (10, 1)
+ vertex (9, 1)
+ vertex (9, 2)
+ vertex (8, 2)
+ vertex (7, 1)
+ vertex (6, 1)
+ vertex (5, 1)
+ vertex (5, 2)
+ vertex (5, 3)
+ vertex (4, 3)
+ vertex (4, 4)
+ vertex (3, 4)
+ vertex (3, 5)
+ vertex (3, 6)
+ vertex (3, 7)
+ vertex (3, 8)
+ vertex (3, 9)
+ vertex (3, 10)
+ vertex (3, 11)
+ vertex (3, 12)
+ vertex (3, 13)
+ vertex (3, 14)
+ vertex (3, 15)
+ vertex (3, 16)
+ vertex (3, 17)
+ vertex (3, 18)
+ vertex (2, 18)
+ vertex (2, 19)
+ vertex (1, 19)
+ vertex (1, 20)
+
+total iterations  = 111
+max frontier size = 73
+vertices visited  = 111
+path length       = 41

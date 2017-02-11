@@ -1,0 +1,58 @@
+Valid input file: ATM_graph2.txt
+iter 0:	checking: (1,17), 	frontier size = 0
+iter 1:	checking: (1,16), 	frontier size = 3
+iter 2:	checking: (1,15), 	frontier size = 4
+iter 3:	checking: (2,15), 	frontier size = 5
+iter 4:	checking: (2,14), 	frontier size = 7
+iter 5:	checking: (3,14), 	frontier size = 9
+iter 6:	checking: (3,13), 	frontier size = 9
+iter 7:	checking: (3,12), 	frontier size = 10
+iter 8:	checking: (3,11), 	frontier size = 11
+iter 9:	checking: (3,10), 	frontier size = 12
+iter 10:	checking: (3,9), 	frontier size = 13
+iter 11:	checking: (3,8), 	frontier size = 14
+iter 12:	checking: (3,7), 	frontier size = 15
+iter 13:	checking: (3,6), 	frontier size = 16
+iter 14:	checking: (3,5), 	frontier size = 17
+iter 15:	checking: (3,4), 	frontier size = 18
+iter 16:	checking: (4,4), 	frontier size = 20
+iter 17:	checking: (5,4), 	frontier size = 21
+iter 18:	checking: (6,4), 	frontier size = 22
+iter 19:	checking: (7,4), 	frontier size = 23
+iter 20:	checking: (8,4), 	frontier size = 24
+iter 21:	checking: (8,5), 	frontier size = 26
+iter 22:	checking: (8,6), 	frontier size = 26
+iter 23:	checking: (8,7), 	frontier size = 26
+iter 24:	checking: (8,8),	goal found!
+
+solution path:
+ vertex (1, 17)
+ vertex (1, 16)
+ vertex (1, 15)
+ vertex (2, 15)
+ vertex (2, 14)
+ vertex (3, 14)
+ vertex (3, 13)
+ vertex (3, 12)
+ vertex (3, 11)
+ vertex (3, 10)
+ vertex (3, 9)
+ vertex (3, 8)
+ vertex (3, 7)
+ vertex (3, 6)
+ vertex (3, 5)
+ vertex (3, 4)
+ vertex (4, 4)
+ vertex (5, 4)
+ vertex (6, 4)
+ vertex (7, 4)
+ vertex (8, 4)
+ vertex (8, 5)
+ vertex (8, 6)
+ vertex (8, 7)
+ vertex (8, 8)
+
+total iterations  = 24
+max frontier size = 30
+vertices visited  = 24
+path length       = 24
